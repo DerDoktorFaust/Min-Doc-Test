@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Credits and Acknowledgements
+title: test
 number: 007 
 ---
 
